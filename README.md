@@ -2,7 +2,6 @@
 
 An open-source hardware project for building compact face tracker based on [Babble Project](https://babble.diy/).
 
-![Banner](images/banner.jpg)
 
 ## 🔧 Overview
 
@@ -16,8 +15,9 @@ Electronics design made with Altium Designer, including schematics, layout, and 
 
 ## 🖼️ Gallery
 
-![PCB Front](images/pcb_front.jpg)
-![Assembled Unit](images/assembled.jpg)
+![PCB Back](Images/pcb_back.png)
+![Assembled Unit](tracker_front_camera.png)
+![Tracker on Quest 3](tracker_on_quest3.png)
 
 Assembly guides will be added soon...
 
