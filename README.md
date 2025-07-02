@@ -16,8 +16,8 @@ Electronics design made with Altium Designer, including schematics, layout, and 
 ## 🖼️ Gallery
 
 ![PCB Back](Images/pcb_back.png)
-![Assembled Unit](tracker_front_camera.png)
-![Tracker on Quest 3](tracker_on_quest3.png)
+![Assembled Unit](Images/tracker_front_camera.png)
+![Tracker on Quest 3](Images/tracker_on_quest3.png)
 
 Assembly guides will be added soon...
 
